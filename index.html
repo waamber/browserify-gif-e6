@@ -2,18 +2,31 @@
 <html>
 <head>
 	<title>Gif Time!!</title>
-	<link rel="stylesheet" type="text/css" href="./lib/node_modules/bootstrap/dist/css/boostrap.css">
+	<link rel="stylesheet" type="text/css" href="./lib/node_modules/bootstrap/dist/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="./styles/main.css">
 </head>
 <body>
-<h1>Gif Time</h1>
+<div class="container">
+	<h1>Gif Time</h1>
+
+	<div class="row" id="filters">
+		<div class="col-sm-4 col-sm-offset-4">
+			<button class="btn btn-danger" id="funnyCats">Cats</button>
+			<button class="btn btn-success" id="funnyDogs">Dogs</button>
+			<button class="btn btn-warning" id="funnyDinos">Dino</button>
+			<button class="btn btn-info" id="busterBluth">Buster Bluth</button>
+		</div>
+	</div>
+
+	<div id="output"></div>
+</div>
 
 
 <!-- ------------      SCRIPTS      ------------ -->
 <!-- JQUERY SCRIPT TAG - INSTALLED VIA NPM -->
 <script type="text/javascript" src="./lib/node_modules/jquery/dist/jquery.js"></script>
 <!-- BOOTSTRAP SCRIPT TAG - INSTALLED VIA NPM -->
-<script type="text/javascript" src="./lib/node_modules/bootstrap/dist/js/boostrap.js"></script>
+<script type="text/javascript" src="./lib/node_modules/bootstrap/dist/js/bootstrap.js"></script>
 <!-- OUR APP -->
 <script type="text/javascript" src="./dist/app.js"></script>
 </body>

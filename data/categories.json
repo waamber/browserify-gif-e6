@@ -1,0 +1,21 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "Funny Cats"
+		},
+		{
+			"id": 2,
+			"name": "Funny Dogs"
+		},
+		{
+			"id": 3,
+			"name": "Funny Dinos"
+		},
+		{
+			"id": 4,
+			"name": "Buster Bluth"
+		}
+
+	]
+}

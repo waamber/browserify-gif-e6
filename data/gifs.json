@@ -1,0 +1,99 @@
+{
+    "gifs": [
+        {
+            "category": 1,
+            "gif": "https://media0.giphy.com/media/JIX9t2j0ZTN9S/250w.gif",
+            "title": "Slappin' the Keys"
+        },
+        {
+            "category": 1,
+            "gif": "https://media2.giphy.com/media/yAqdjThdDEMF2/250w.gif",
+            "title": "Banana Murder"
+        },
+        {
+            "category": 1,
+            "gif": "https://media1.giphy.com/media/13CoXDiaCcCoyk/250w.gif",
+            "title": "Shimmy"
+        },
+        {
+            "category": 1,
+            "gif": "https://media2.giphy.com/media/mlvseq9yvZhba/250w.gif",
+            "title": "This Displeases Me"
+        },
+        {
+            "category": 2,
+            "gif": "https://media0.giphy.com/media/S2S0ZDytY6yDm/250w.gif",
+            "title": "Buttface"
+        },
+        {
+            "category": 2,
+            "gif": "https://media2.giphy.com/media/OLyqxT26UvPCU/250w.gif",
+            "title": "This Is What I Meant To Happen"
+        },
+        {
+            "category": 2,
+            "gif": "https://media0.giphy.com/media/bswGDO7Rh1ONO/250w.gif",
+            "title": "This Pleases Me"
+        },
+        {
+            "category": 2,
+            "gif": "https://media1.giphy.com/media/18LZm8w9R8T0Q/250w.gif",
+            "title": "Nom"
+        },
+        {
+            "category": 2,
+            "gif": "https://media2.giphy.com/media/gxjiNJ2XPA8py/500w.gif",
+            "title": "Check This Out"
+        },
+        {
+            "category": 3,
+            "gif": "https://media.giphy.com/media/LbwJp26pqGf0k/giphy.gif",
+            "title": "Ta-Da!"
+        },
+        {
+            "category": 3,
+            "gif": "https://media.giphy.com/media/116IIQhtsXbHrO/giphy.gif",
+            "title": "Don't Mind If I Do"
+        },
+        {
+            "category": 3,
+            "gif": "https://media.giphy.com/media/mTrUbEjM1Agta/giphy.gif",
+            "title": "Mildly Impressive"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/34I09FCe7fq1y/giphy.gif",
+            "title": "Busta Move"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/XVAq5DLZwx2yA/giphy.gif",
+            "title": "On The Hook"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/tfbjg0Md9vRtK/giphy.gif",
+            "title": "Thanks Milford"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/vg7FVdp08cE24/giphy.gif",
+            "title": "Busted"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/pKeEqvsXvLswU/giphy.gif",
+            "title": "See, Mother?"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/1207mdjYyU08Wk/giphy.gif",
+            "title": "Not A Seal"
+        },
+        {
+            "category": 4,
+            "gif": "https://media.giphy.com/media/n2eijGHQirF3q/giphy.gif",
+            "title": "I'm A Monster"
+        }
+    ]
+}

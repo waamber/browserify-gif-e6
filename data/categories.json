@@ -2,19 +2,23 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "Funny Cats"
+			"name": "Funny Cats",
+			"dataName": "funnyCats"
 		},
 		{
 			"id": 2,
-			"name": "Funny Dogs"
+			"name": "Funny Dogs",
+			"dataName": "funnyDogs"
 		},
 		{
 			"id": 3,
-			"name": "Funny Dinos"
+			"name": "Funny Dinos",
+			"dataName": "funnyDinos"
 		},
 		{
 			"id": 4,
-			"name": "Buster Bluth"
+			"name": "Buster Bluth",
+			"dataName": "busterBluth"
 		}
 
 	]
